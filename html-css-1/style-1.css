@@ -1,0 +1,33 @@
+nav {
+    background: salmon;
+    padding: 20px;
+}
+h1 {
+    font-size: x-large;
+}
+h5 {
+    font-size: large;
+    padding-right: 30px;
+}
+h3 {
+    font-size: larger;
+    font-weight: bolder;
+}
+section {
+    border: black dotted 5px;
+    padding: 20px;
+    margin: 20px;
+}
+p {
+    line-height: 1.5;
+    font-size: medium;
+}
+.home {
+    padding-left: 20em;
+}
+.css3logo {
+    float: right;
+}
+.content {
+    padding: 20px;
+}

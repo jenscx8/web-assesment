@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = 'version control'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = 'website for tracking version control'
 
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
@@ -34,6 +36,10 @@
 */
 
 //CODE HERE
+let init = {
+    description: 'this will initialize a github repo',
+    code: 'git init'
+}
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -42,6 +48,10 @@
 */
 
 //CODE HERE
+let clone = {
+    description: 'clone an existing git repo',
+    code: 'git clone'
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -50,6 +60,10 @@
 */
 
 //CODE HERE
+let status = {
+    description: 'this shows the status of your code',
+    code: 'git status'
+}
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -58,6 +72,10 @@
 */
 
 //CODE HERE
+let add = {
+    description: 'this adds your files to the repo',
+    code: 'git add [files]'
+}
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -66,6 +84,10 @@
 */
 
 //CODE HERE
+let commit = {
+    description: 'this commits your files to the repo',
+    code: 'git commit -m'
+}
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -74,6 +96,10 @@
 */
 
 //CODE HERE
+let addRemote = {
+    description: 'add a remote location to git repo',
+    code: 'git remote add origin'
+}
 
 //////////////////PROBLEM 9////////////////////
 /*
@@ -82,3 +108,7 @@
 */
 
 //CODE HERE
+let push = {
+    description: 'pushes code to git repo',
+    code: 'git push'
+}

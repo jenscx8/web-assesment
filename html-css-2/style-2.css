@@ -1,0 +1,115 @@
+nav {
+    background: aquamarine;
+    padding: 20px;
+}
+h1 {
+    font-size: x-large;
+    font-weight: bolder;
+}
+h2 {
+    font-size: large;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    border: dotted 3px;
+    display: inline-block;
+}
+.purp {
+    background: purple;
+    height: 50px;
+    width: 130px;
+    border: solid 5px red;
+    float: left;
+    margin: 20px;
+    margin-top: 175px;
+}
+.blue {
+    background: blue;
+    height: 90px;
+    width: 90px;
+    box-shadow: 6px 6px 2px 1px;
+    float: left;
+    margin: 20px;
+    margin-top: 150px;
+}
+.pink {
+    background: pink;
+    height: 200px;
+    width: 300px;
+    border: solid 1px black;
+    float: left;
+    margin: 20px;
+    margin-top: 45px;
+}
+.circle1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    border: solid 1px;
+    margin-left: 30px;
+}
+.carrot {
+    margin-left: 12px;
+    margin-bottom: 5px;
+}
+.lefteye {
+    margin-left: 5px;
+}
+.circle2 {
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    border: solid 1px;
+    margin-left: 15px;
+}
+.button {
+    margin-left: 28px;
+}
+.circle3 {
+    height: 90px;
+    width: 90px;
+    border-radius: 100px;
+    border: solid 1px;
+}
+
+
+.rectangletan {
+    height: 200px;
+    width: 200px;
+    background-color: tan;
+    border: solid 1px;
+}
+.circlegreen {
+    height: 170px;
+    width: 170px;
+    background-color: green;
+    border-radius: 100%;
+    border: solid 1px;
+}
+.rectanglered {
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    display: inline-block;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+.circleblue {
+    height: 70px;
+    width: 70px;
+    background-color: blue;
+    border-radius: 100%;
+}
+.fish {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.fishtank {
+    color: white;
+    margin: 4px;
+}
